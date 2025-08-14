@@ -1,0 +1,1 @@
+# AIP4_lambda-image-resizer
